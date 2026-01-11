@@ -1456,4 +1456,4 @@ start_rejoin_on_disconnect()
 
 return TDS
 end)()
-TDS:Addons()
+
